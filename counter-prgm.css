@@ -1,0 +1,38 @@
+div{
+    display: block;
+    
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+    margin-left: 350px;
+    margin-right: 350px;
+    
+    
+}
+button{
+    font-size: 50px;
+    border: solid black 2px;
+}
+#bdd{
+    background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);   
+} 
+
+
+
+#decreasebtn:hover{
+    background-color:red;
+}
+
+#resetbtn:hover{
+    background-color: green;
+}
+
+#increasebtn:hover{
+    background-color: blue;
+}
+
+#countlabel{
+    color: black;
+    
+}
